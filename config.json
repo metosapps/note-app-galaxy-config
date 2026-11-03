@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "packageName": "com.notesvault.app.glxcodx",
+  "store": "galaxy_store",
+  "version": 2,
+  "legal": {
+    "privacyPolicyUrl": "https://metosapps.github.io/notesvault-galaxy/privacy.html",
+    "termsUrl": "https://metosapps.github.io/notesvault-galaxy/terms.html"
+  },
+  "support": {
+    "supportEmail": "chennoufo11@gmail.com",
+    "privacyEmail": "chennoufo11@gmail.com",
+    "websiteUrl": "https://metosapps.github.io/notesvault-galaxy/",
+    "helpUrl": "https://metosapps.github.io/notesvault-galaxy/support.html",
+    "galaxyStoreUrl": ""
+  },
+  "ads": {
+    "enabled": false,
+    "network": "admob",
+    "placements": {
+      "appOpen": false,
+      "interstitial": false,
+      "homeBanner": false,
+      "nativeInList": false,
+      "editorBanner": false,
+      "backupInterstitial": false
+    },
+    "ids": {
+      "appOpenUnitId": "",
+      "admobAppId": "ca-app-pub-4755121575074602~5178858728",
+      "homeBannerUnitId": "",
+      "nativeUnitId": "",
+      "interstitialUnitId": "",
+      "rewardedUnitId": ""
+    },
+    "frequency": {
+      "maxAppOpensPerSession": 0,
+      "minFullscreenIntervalSeconds": 180,
+      "minBackgroundSeconds": 30,
+      "interstitialEveryNTransitions": 4,
+      "nativeInListEveryN": 0,
+      "maxInterstitialsPerSession": 0,
+      "interstitialNoticeMillis": 1500
+    }
+  },
+  "monetization": {
+    "premiumEnabled": false,
+    "paywallEnabled": false,
+    "samsungIapEnabled": false,
+    "localPro": {
+      "appProductId": "local_pro",
+      "samsungProductId": "local_pro",
+      "title": "Local Pro",
+      "description": "Remove ads and unlock premium local features.",
+      "fallbackPriceLabel": ""
+    }
+  },
+  "features": {
+    "pdfExportEnabled": true,
+    "attachmentsEnabled": false,
+    "drawingsEnabled": false,
+    "importersEnabled": false,
+    "tasksViewEnabled": false,
+    "analyticsEnabled": false,
+    "crashReportingEnabled": false,
+    "aiEnabled": false
+  },
+  "updates": {
+    "minSupportedVersionCode": 1,
+    "softUpdateVersionCode": 2,
+    "updateUrl": "https://galaxystore.samsung.com/detail/com.notesvault.app.glxcodx",
+    "maintenanceMode": false
+  },
+  "messaging": {
+    "homePromoTitle": "",
+    "homePromoBody": "",
+    "homePromoUrl": ""
+  }
+}
