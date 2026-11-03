@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageName": "com.notesvault.app.glxcodx",
   "store": "galaxy_store",
-  "version": 2,
+  "version": 3,
   "legal": {
     "privacyPolicyUrl": "https://metosapps.github.io/notesvault-galaxy/privacy.html",
     "termsUrl": "https://metosapps.github.io/notesvault-galaxy/terms.html"
@@ -12,7 +12,7 @@
     "privacyEmail": "chennoufo11@gmail.com",
     "websiteUrl": "https://metosapps.github.io/notesvault-galaxy/",
     "helpUrl": "https://metosapps.github.io/notesvault-galaxy/support.html",
-    "galaxyStoreUrl": ""
+    "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.notesvault.app.glxcodx"
   },
   "ads": {
     "enabled": false,
