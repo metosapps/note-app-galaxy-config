@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageName": "com.notesvault.app.glxcodx",
   "store": "galaxy_store",
-  "version": 3,
+  "version": 4,
   "legal": {
     "privacyPolicyUrl": "https://metosapps.github.io/notesvault-galaxy/privacy.html",
     "termsUrl": "https://metosapps.github.io/notesvault-galaxy/terms.html"
@@ -15,31 +15,31 @@
     "galaxyStoreUrl": "https://galaxystore.samsung.com/detail/com.notesvault.app.glxcodx"
   },
   "ads": {
-    "enabled": false,
+    "enabled": true,
     "network": "admob",
     "placements": {
-      "appOpen": false,
-      "interstitial": false,
+      "appOpen": true,
+      "interstitial": true,
       "homeBanner": false,
-      "nativeInList": false,
+      "nativeInList": true,
       "editorBanner": false,
       "backupInterstitial": false
     },
     "ids": {
-      "appOpenUnitId": "",
+      "appOpenUnitId": "ca-app-pub-4755121575074602/6797802971",
       "admobAppId": "ca-app-pub-4755121575074602~5178858728",
       "homeBannerUnitId": "",
-      "nativeUnitId": "",
-      "interstitialUnitId": "",
+      "nativeUnitId": "ca-app-pub-4755121575074602/1737047980",
+      "interstitialUnitId": "ca-app-pub-4755121575074602/5456142003",
       "rewardedUnitId": ""
     },
     "frequency": {
-      "maxAppOpensPerSession": 0,
+      "maxAppOpensPerSession": 1,
       "minFullscreenIntervalSeconds": 180,
       "minBackgroundSeconds": 30,
       "interstitialEveryNTransitions": 4,
-      "nativeInListEveryN": 0,
-      "maxInterstitialsPerSession": 0,
+      "nativeInListEveryN": 8,
+      "maxInterstitialsPerSession": 2,
       "interstitialNoticeMillis": 1500
     }
   },
