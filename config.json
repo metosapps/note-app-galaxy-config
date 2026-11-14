@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "packageName": "com.notesvault.app.glxcodx",
   "store": "galaxy_store",
-  "version": 4,
+  "version": 5,
   "legal": {
     "privacyPolicyUrl": "https://metosapps.github.io/notesvault-galaxy/privacy.html",
     "termsUrl": "https://metosapps.github.io/notesvault-galaxy/terms.html"
@@ -44,9 +44,9 @@
     }
   },
   "monetization": {
-    "premiumEnabled": false,
-    "paywallEnabled": false,
-    "samsungIapEnabled": false,
+    "premiumEnabled": true,
+    "paywallEnabled": true,
+    "samsungIapEnabled": true,
     "localPro": {
       "appProductId": "local_pro",
       "samsungProductId": "local_pro",
